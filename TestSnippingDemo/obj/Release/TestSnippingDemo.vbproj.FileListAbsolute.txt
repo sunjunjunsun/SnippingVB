@@ -1,0 +1,11 @@
+E:\ac\TestSnippingDemo\TestSnippingDemo\bin\Release\TestSnippingDemo.exe.config
+E:\ac\TestSnippingDemo\TestSnippingDemo\bin\Release\TestSnippingDemo.exe
+E:\ac\TestSnippingDemo\TestSnippingDemo\bin\Release\TestSnippingDemo.pdb
+E:\ac\TestSnippingDemo\TestSnippingDemo\bin\Release\TestSnippingDemo.xml
+E:\ac\TestSnippingDemo\TestSnippingDemo\obj\Release\TestSnippingDemo.Form1.resources
+E:\ac\TestSnippingDemo\TestSnippingDemo\obj\Release\TestSnippingDemo.Resources.resources
+E:\ac\TestSnippingDemo\TestSnippingDemo\obj\Release\TestSnippingDemo.vbproj.GenerateResource.Cache
+E:\ac\TestSnippingDemo\TestSnippingDemo\obj\Release\TestSnippingDemo.exe
+E:\ac\TestSnippingDemo\TestSnippingDemo\obj\Release\TestSnippingDemo.xml
+E:\ac\TestSnippingDemo\TestSnippingDemo\obj\Release\TestSnippingDemo.pdb
+E:\ac\TestSnippingDemo\TestSnippingDemo\obj\Release\TestSnippingDemo.vbprojResolveAssemblyReference.cache
